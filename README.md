@@ -120,7 +120,7 @@ Folder PATH listing folder src:....
 https://resume-builder-react-app.vercel.app/
 
 # $ Walkthrough video link $
-https://youtu.be/YUUyH5yGVv8
+[https://youtu.be/YUUyH5yGVv8](https://www.youtube.com/watch?v=9LwDtkOmKuA&t=81s)https://www.youtube.com/watch?v=9LwDtkOmKuA&t=81s
 
 
 
